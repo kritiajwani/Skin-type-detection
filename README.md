@@ -25,3 +25,8 @@ Model Architecture
 Input Layer: Accepts preprocessed images.
 Hidden Layers: Convolutional layers with ReLU activations and max-pooling for feature extraction.
 Output Layer: Fully connected softmax layer for classification into skin types.
+
+Future Enhancements
+Integration with real-time image capture using webcam or phone cameras.
+Expanding dataset for more diverse skin tones and conditions.
+Developing an app-based interface for end-user engagement.
